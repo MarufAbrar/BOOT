@@ -19,3 +19,53 @@
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, iusto. Voluptatem quod quos sunt, sed provident odio dolore, corrupti ducimus deleniti voluptas dolor laboriosam accusamus facere iusto eaque distinctio. Saepe!</p>
 </div> 
 **********************end section first time bootstrap**************************
+
+
+
+
+<div class="container m-3">
+    <h1>noramal container  </h1>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident cumque ad veniam sunt sint ea ipsa quas sed eos adipisci. Ea distinctio voluptatem facilis nobis facere voluptatum aut vitae maiores.</p>
+</div>
+<div class="m-4 container-fluid">
+  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus debitis maiores aliquid, aspernatur dolores blanditiis necessitatibus inventore culpa dolorem nobis, laborum repellendus ipsam vero, fugiat hic at perspiciatis? Porro, facilis. </p>
+</div>
+<div class="m-3 container-md">
+  <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Tempora modi quas ad consequatur sit corporis est illum possimus optio voluptatem animi, et laudantium porro totam quos aspernatur id suscipit quaerat?</p>
+</div><br>
+
+<!--**grid layouts************************************* -->
+
+
+
+
+<div class="container-xl">
+<div class="row">
+  <div class=" col-sm-4 my-2 col-md-2 col-lg-6 p-5 border border-danger ms-2 ">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga amet assumenda mollitia laborum perspiciatis est tempore enim expedita nulla praesentium, quaerat, repellendus aperiam necessitatibus quis error vitae ipsam aut? Modi?</p>
+  </div>
+  <div class="  col-3 border border-primary ms-3 ">
+    <p>Reprehenderit enim amet corporis, fuga ducimus voluptate esse voluptates doloribus laboriosam aliquid blanditiis quo quod asperiores provident fugit expedita modi nostrum! Culpa quaerat iure dolor totam magni voluptas, voluptatum tempora!</p>
+  </div>
+  <div class="col border border-warning ms-4">
+    <p>Molestias esse officiis rerum perspiciatis corrupti accusantium ex voluptates, deserunt, earum totam dignissimos facilis distinctio nemo at deleniti eos officia quia praesentium tempora quas maxime voluptatibus repudiandae voluptatum. Ipsam, dicta.</p>
+  </div>
+</div>
+</div><br>
+<h1 class="display-1 text-center">blog section</h1>
+<br>
+<div class="row border ">
+  <div class="col-sm-0 col-lg-6   ms-2">
+    <p class="fst-italic"><span class="fw-bold">Nick Schäferhoff</span>  <br> Editor in Chief Lorem ipsum dolor, sit amet consectetur adipisicing elit. Enim facere incidunt, eaque praesentium exercitationem nam quasi eligendi esse ea quam, deleniti aliquam eius! A voluptatum ratione aut dolorum doloremque blanditiis.</p>
+  </div>
+  <div class="col">
+    <p><span>Last updated: Dec 7, 2020</span> <br> 93 Comments Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime, veritatis libero quaerat quidem itaque quasi  </p>
+  </div>
+  <div class="col">
+    <h3 class="dislay-4 text-center">
+      my blog time
+    </h3>
+    <input type="text" class="w-75 ms-4 ">
+    <p class=" text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem molestias error sint aliquam quam, perspiciatis distinctlestias est omnis numquam nihil doloribus quod dolorum, quibusdam itaque mollitia repudiandae, ipsum aspernatur? Nam, eum!</p>
+  </div>
+</div>
