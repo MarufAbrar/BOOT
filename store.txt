@@ -1,0 +1,21 @@
+    
+    *******************first time bootstrap***********************
+    <h1>Hello, world!</h1>
+<p class="display-1">   hello world</p>
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Modi sed velit sequi at, culpa nesciunt labore omnis perferendis repellendus asperiores saepe adipisci reiciendis doloremque sunt expedita amet in architecto nisi?</p>
+<p class="lead text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore aspernatur ratione voluptate, provident eligendi excepturi qui! Necessitatibus quas ipsa minima itaque, rem mollitia, facere reiciendis et recusandae qui ab nemo?</p>
+<h2 class="display-3 text-center">HTML</h2>
+<h2 class="display-3 text-start">css</h2>
+<h2 class="display-3 text-end">bootstrap</h2>
+<h3 class="display-3 text-decoration-underline">$20,000</h3>
+<h3 class="display-3 text-decoration-line-through">$20,000</h3>
+<p class="p-3 bd-$indigo-100">hello</p>  
+<p class="bg-success m-5 p-5">this is marign and padding</p>
+<p class="ms-5 ps-5 pb-3 pt-3 bg-primary">Lorem ipsum dolor sit amet consectetur adipisicinfficia modi?</p>
+<p class="my-5 ms-5 me-5 p-4 border">My border</p><br>
+<p class="my-5 ms-5 me-5 p-4 border-start border-top rounded-pill shadow-lg border-danger bg-secondary border-5">My border</p>
+<p class="m-4 p-4 border-start border-5 border-danger bg-warning">my start border</p>
+<div class="shadow-lg  shadow-primary container">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, iusto. Voluptatem quod quos sunt, sed provident odio dolore, corrupti ducimus deleniti voluptas dolor laboriosam accusamus facere iusto eaque distinctio. Saepe!</p>
+</div> 
+**********************end section first time bootstrap**************************
